@@ -1,3 +1,13 @@
+
+a
+{
+
+    text-decoration: none;
+    color: black;
+
+}
+
+
 #body
 {
 
@@ -30,8 +40,9 @@
     margin-left: 30px;
     background-color: grey;
     overflow: hidden;
-    border-color: firebrick;
-    border-bottom: firebrick;
+    border-color: purple;
+    border-bottom: purple;
+    text-decoration: none;
 
 }
 
@@ -121,5 +132,14 @@
 
     margin: 25px 25px 5px 25px;
     border-radius: 30px;
+
+}
+
+
+button:hover
+{
+
+   background-color: #5d5b5b; 
+   margin: 25px 25px 25px 25px;
 
 }
