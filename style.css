@@ -1,0 +1,125 @@
+#body
+{
+
+    padding: ;
+    background-color: #6c5a84
+
+}
+
+.container-fluid
+{
+    color: green;
+}
+
+
+.col
+{
+
+    border-radius: 0px;
+
+}
+
+.container
+{
+
+    border-radius: 15px;
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin-left: 30px;
+    background-color: grey;
+    overflow: hidden;
+    border-color: firebrick;
+    border-bottom: firebrick;
+
+}
+
+.col:hover
+{
+
+    background-color: #5d5b5b;
+
+}
+
+.text-muted
+{
+
+    color: #646464;
+
+}
+
+.blockquote
+{
+
+    margin: 50px 0px 0px 275px;
+
+}
+
+
+.blockquote-footer
+{
+
+    color: grey;
+
+}
+
+
+.test
+{
+
+    text-align: center;
+
+}
+
+
+.card
+{
+
+    margin: 0px 0px 0px 20px;
+    border-radius: 30px;
+
+}
+
+
+.card-body
+{
+
+    text-align: center;
+    border-width: 1rem;
+    border-color: black;
+    background-color: #524465;
+
+}
+
+.row
+{
+
+    text-align: center;
+
+}
+
+
+#naglowek
+{
+
+    margin: 20px 0px 0px 0px;
+
+}
+
+
+#box
+{
+
+    border-radius: 30px;
+
+}
+
+
+#carouselExampleControls
+{
+
+    margin: 25px 25px 5px 25px;
+    border-radius: 30px;
+
+}
